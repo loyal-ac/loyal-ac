@@ -64,17 +64,17 @@
 
 <p align="center">
   <a href="https://edendisk.com">
-    <img src="https://edendisk.com/dist/assets/edendisk-D3zKQ8gj.ico" width="90"/>
+    <img src="./assets/img/edendisk.png" width="90"/>
   </a>
 </p>
 
 <p align="center">
-  Storage & license management SaaS platform.<br/>
-  Built with React, Node.js & Stripe subscriptions.
+  Advanced storage & license management SaaS platform.<br/>
+  Built with modern frontend architecture, backend automation and secure subscription systems.
 </p>
 
 <p align="center">
-  ⚙️ React • Node.js • Stripe • MongoDB
+  ⚙️ React • TypeScript • Node.js • Python • Stripe • MongoDB
 </p>
 
 <p align="center">
