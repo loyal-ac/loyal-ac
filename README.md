@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://edendisk.com">
-    <img src="./assets/img/edendisk.png" width="90"/>
+    <img src="https://edendisk.com/dist/assets/edendisk-D3zKQ8gj.ico" width="90"/>
   </a>
 </p>
 
