@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://websentinelle.com">
-    <img src=".assets/img/websentinelle.png" width="90"/>
+    <img src="./assets/img/websentinelle.png" width="90"/>
   </a>
 </p>
 
@@ -114,7 +114,7 @@
 
 <p align="center">
   <a href="https://genzvox.com">
-    <img src="https://genzvox.com/favicon.ico" width="90"/>
+    <img src="./assets/img/genzvox.png" width="90"/>
   </a>
 </p>
 
