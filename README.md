@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://websentinelle.com">
-    <img src="https://websentinelle.com/favicon.ico" width="90"/>
+    <img src=".assets/img/websentinelle.png" width="90"/>
   </a>
 </p>
 
