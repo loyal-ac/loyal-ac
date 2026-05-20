@@ -1,16 +1,240 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
 
-<!--
-**loyal-ac/loyal-ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7f1d1d,100:dc2626&height=260&section=header&text=loyal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
 
-Here are some ideas to get you started:
+<!-- ===================== HERO ===================== -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">⚡ Build. Automate. Scale.</h2>
+
+<p align="center">
+  Full Stack Developer • SaaS Architect • Founder of loyal
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ef4444&size=24&center=true&vCenter=true&width=850&lines=Building+Modern+SaaS+Platforms;Creating+CRM+%26+Business+Systems;Stripe+Subscriptions+%26+Automation;React+%2B+Node.js+%2B+TypeScript;Built+by+loyal.+Powered+by+CHRIXCODE."/>
+</p>
+
+<p align="center">
+  <a href="https://loyal.ac">
+    <img src="https://img.shields.io/badge/🌐 loyal.ac-b91c1c?style=for-the-badge"/>
+  </a>
+
+  <a href="mailto:contact@loyal.ac">
+    <img src="https://img.shields.io/badge/📩 Contact-e11d48?style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/loyal-ac">
+    <img src="https://img.shields.io/badge/💻 GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```diff
++ 🚀 Founder of loyal.ac
++ ⚡ Full Stack Developer
++ 🧠 SaaS & CRM Architect
++ 💳 Stripe Subscription Systems
++ ⚙️ Backend Automation Specialist
++ 🌍 Based between French Guiana & France
++ 🏢 Powered by CHRIXCODE
+```
+
+---
+
+# 🚀 What I Build
+
+- ⚡ Scalable SaaS Platforms
+- 💼 CRM & Business Tools
+- 💳 Stripe Subscription Systems
+- 📄 Invoice & Quote Automation
+- 🔐 Secure Production Backends
+- 📧 Email Automation Platforms
+- 🌐 Premium Business Websites
+
+---
+
+# 🌍 Live Projects
+
+## 🧠 EdenDisk
+
+<p align="center">
+  <a href="https://edendisk.com">
+    <img src="https://edendisk.com/dist/assets/edendisk-D3zKQ8gj.ico" width="90"/>
+  </a>
+</p>
+
+<p align="center">
+  Storage & license management SaaS platform.<br/>
+  Built with React, Node.js & Stripe subscriptions.
+</p>
+
+<p align="center">
+  ⚙️ React • Node.js • Stripe • MongoDB
+</p>
+
+<p align="center">
+  <a href="https://edendisk.com">
+    <img src="https://img.shields.io/badge/🚀 Visit-EdenDisk-dc2626?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🌐 WebSentinelle
+
+<p align="center">
+  <a href="https://websentinelle.com">
+    <img src="https://websentinelle.com/favicon.ico" width="90"/>
+  </a>
+</p>
+
+<p align="center">
+  Premium websites & digital solutions for businesses.<br/>
+  Focused on performance, visibility and modern design.
+</p>
+
+<p align="center">
+  ⚙️ React • SEO • Hosting • Business Solutions
+</p>
+
+<p align="center">
+  <a href="https://websentinelle.com">
+    <img src="https://img.shields.io/badge/🌐 Visit-WebSentinelle-b91c1c?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🧾 GenZvox
+
+<p align="center">
+  <a href="https://genzvox.com">
+    <img src="https://genzvox.com/favicon.ico" width="90"/>
+  </a>
+</p>
+
+<p align="center">
+  Electronic invoicing & quote platform for entrepreneurs.<br/>
+  Designed for French Guiana, Guadeloupe & Martinique.
+</p>
+
+<p align="center">
+  ⚙️ SaaS • Stripe • Automation • Invoice System
+</p>
+
+<p align="center">
+  <a href="https://genzvox.com">
+    <img src="https://img.shields.io/badge/🚀 Visit-GenZvox-dc2626?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,sqlite,html,css,js,git,github,vscode,figma,cloudflare" />
+</p>
+
+---
+
+# 🧠 Technologies & Expertise
+
+```yaml
+Frontend:
+  - React
+  - TypeScript
+  - Vite
+  - Responsive UI/UX
+
+Backend:
+  - Node.js
+  - Express
+  - MongoDB
+  - SQLite
+
+Payments:
+  - Stripe Checkout
+  - Stripe Webhooks
+  - Subscription Systems
+
+Infrastructure:
+  - IIS
+  - VPS Deployment
+  - PM2
+  - Cloudflare
+
+Automation:
+  - Cron Jobs
+  - Email Systems
+  - PDF Generation
+  - Business Workflows
+```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loyal-ac&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loyal-ac&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 💖 Support My Work
+
+<p align="center">
+  <a href="https://loyal.ac">
+    <img src="https://img.shields.io/badge/⚡ Built by loyal-b91c1c?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+  <a href="https://loyal.ac">
+    <img src="https://img.shields.io/badge/🌐 Website-loyal.ac-dc2626?style=for-the-badge"/>
+  </a>
+
+  <a href="mailto:contact@loyal.ac">
+    <img src="https://img.shields.io/badge/📧 Email-contact@loyal.ac-ef4444?style=for-the-badge"/>
+  </a>
+
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+</p>
+
+---
+
+# 🚀 Vision
+
+I build modern digital products focused on automation, scalability and business growth.
+
+Built by loyal.  
+Powered by CHRIXCODE.
+
+---
+
+<!-- ===================== SNAKE ===================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:0f172a&height=150&section=footer"/>
+</p>
