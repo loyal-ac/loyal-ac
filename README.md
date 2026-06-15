@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=260&section=header&text=Loyal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7f1d1d,100:dc2626&height=260&section=header&text=Loyal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <!-- ===================== HERO ===================== -->
@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2563eb&size=24&center=true&vCenter=true&width=950&lines=Creator+of+Loyal+Software;Building+Windows+Applications;Developing+Offline+Diagnostic+Tools;Creating+Software+Products;EdenDisk+%7C+Loyal+Guardian"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=dc2626&size=24&center=true&vCenter=true&width=950&lines=Creator+of+Loyal+Software;Building+Windows+Applications;Developing+Offline+Diagnostic+Tools;Creating+Software+Products;EdenDisk+%7C+Loyal+Guardian"/>
 </p>
 
 <p align="center">
   <a href="https://loyal.ac">
-    <img src="https://img.shields.io/badge/🌐 loyal.ac-2563eb?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐 loyal.ac-b91c1c?style=for-the-badge"/>
   </a>
 
   <a href="mailto:contact@loyal.ac">
-    <img src="https://img.shields.io/badge/📩 Contact-1d4ed8?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/📩 Contact-e11d48?style=for-the-badge"/>
   </a>
 
   <a href="https://github.com/loyal-ac">
@@ -206,5 +206,5 @@ Powered by CHRIXCODE.
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:0f172a&height=150&section=footer"/>
 </p>
