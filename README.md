@@ -9,7 +9,7 @@
 <h2 align="center">🛡️ Building Software That Solves Real Problems</h2>
 
 <p align="center">
-  Full Stack Developer • Creator of Loyal Software
+  Software Publisher • Full Stack Developer • Founder of Loyal
 </p>
 
 <p align="center">
@@ -170,11 +170,11 @@ Automation:
 <p align="center">
 
   <a href="https://loyal.ac">
-    <img src="https://img.shields.io/badge/🌐 Website-loyal.ac-2563eb?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐 Website-loyal.ac-dc2626?style=for-the-badge"/>
   </a>
 
   <a href="mailto:contact@loyal.ac">
-    <img src="https://img.shields.io/badge/📧 Email-contact@loyal.ac-1d4ed8?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/📧 Email-contact@loyal.ac-e11d48?style=for-the-badge"/>
   </a>
 
 </p>
